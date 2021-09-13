@@ -1,0 +1,27 @@
+_repo: Icarus-or-The-Future-of-Science_66225
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand Russell, 3d Earl
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: https://en.wikipedia.org/wiki/Bertrand_Russell
+description: ''
+gutenberg_issued: '2021-09-05'
+identifiers:
+  gutenberg: '66225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Icarus
+
+  or, The Future of Science'
+url: http://www.gutenberg.org/ebooks/66225
